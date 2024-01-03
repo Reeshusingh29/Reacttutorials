@@ -9,6 +9,7 @@ Currently, two official plugins are available:
 
 
 React fiber info
+React Fiber ek internal reconciliation engine hai jo concurrent mode aur interruptible rendering ke sath React applications ko fast aur responsive banane mein madad karta hai.
 1.react mai jo .createroot method hai woh  behind the scene mai poora dom like structure create karta hai 
 2. jab dom poora poora structure laata hai uskpo page reloading bolte hai 
 3. hooke ui ko updation mai help karte hai unke properties ka use karke jaise usestate(),etc....
